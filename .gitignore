@@ -1,0 +1,6 @@
+dumps
+*.log
+*.tt
+.DS_Store
+test.py
+__pycache__
