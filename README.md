@@ -47,6 +47,7 @@ pip install unicorn capstone
 
 ### 功能一：动态 dump / 自动化调试
 
+ida 调试到指定位置后，写入期望的运行地址，会自动运行且记录 trace 到那结束地址
 
 #### IDA 插件使用
 1. 在 IDA 中使用 `Ctrl-Alt-U` 打开配置窗口
